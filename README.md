@@ -6,7 +6,7 @@
 
 ![alt text](LSTMCell.png)
 
-<p style="text-align: center;">Рисунок 1. Схема LSTM ячейки</p>
+<p align="center">Рисунок 1. Схема LSTM ячейки</p>
 
 
 
