@@ -4,7 +4,7 @@
 А также программная реализация в SimuLink.
 
 
-![alt text]([http://url/to/img.png](https://github.com/NikolayGromov/Memristive-LSTM/blob/67361dc3f5e71fa69fe57ab9b7eef93da958d8d6/LSTMCell.png))
+![alt text](LSTMCell.png)
 
 Рисунок 1. Схема LSTM ячейки
 
@@ -32,7 +32,7 @@ ht=ot×tgh(ct)                            (5)
 Для реализации одного вычислительного блока требуется кроссбар-матрица размера [5 x 5]. Всего для реализации описанной ячейки долгой краткосрочной памяти необходимо 4 блока, т.е. 4 мемристивных кроссбар-матрицы указанного размера.
 
 
-![alt text]([http://url/to/img.png](https://github.com/NikolayGromov/Memristive-LSTM/blob/67361dc3f5e71fa69fe57ab9b7eef93da958d8d6/Scheme.png))
+![alt text](Scheme.png)
 Рисунок 2. Архитектура мемристивной LSTM ячейки
 
 
